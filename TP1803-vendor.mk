@@ -79,7 +79,6 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/TP1803/proprietary/lib/libFileMux.so:system/lib/libFileMux.so \
     vendor/nubia/TP1803/proprietary/lib/libOmxMux.so:system/lib/libOmxMux.so \
     vendor/nubia/TP1803/proprietary/lib/libdiag_system.so:system/lib/libdiag_system.so \
-    vendor/nubia/TP1803/proprietary/lib/libdisplayconfig.so:system/lib/libdisplayconfig.so \
     vendor/nubia/TP1803/proprietary/lib/libdpmctmgr.so:system/lib/libdpmctmgr.so \
     vendor/nubia/TP1803/proprietary/lib/libdpmfdmgr.so:system/lib/libdpmfdmgr.so \
     vendor/nubia/TP1803/proprietary/lib/libdpmframework.so:system/lib/libdpmframework.so \
@@ -91,7 +90,6 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/TP1803/proprietary/lib/libmmparser_lite.so:system/lib/libmmparser_lite.so \
     vendor/nubia/TP1803/proprietary/lib/libmmrtpdecoder.so:system/lib/libmmrtpdecoder.so \
     vendor/nubia/TP1803/proprietary/lib/libmmrtpencoder.so:system/lib/libmmrtpencoder.so \
-    vendor/nubia/TP1803/proprietary/lib/libqdMetaData.system.so:system/lib/libqdMetaData.system.so \
     vendor/nubia/TP1803/proprietary/lib/librcc.so:system/lib/librcc.so \
     vendor/nubia/TP1803/proprietary/lib/libwfdaac.so:system/lib/libwfdaac.so \
     vendor/nubia/TP1803/proprietary/lib/libwfdavenhancements.so:system/lib/libwfdavenhancements.so \
@@ -137,7 +135,6 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/TP1803/proprietary/lib64/lib-imsvtutils.so:system/lib64/lib-imsvtutils.so \
     vendor/nubia/TP1803/proprietary/lib64/libFileMux.so:system/lib64/libFileMux.so \
     vendor/nubia/TP1803/proprietary/lib64/libdiag_system.so:system/lib64/libdiag_system.so \
-    vendor/nubia/TP1803/proprietary/lib64/libdisplayconfig.so:system/lib64/libdisplayconfig.so \
     vendor/nubia/TP1803/proprietary/lib64/libdpmctmgr.so:system/lib64/libdpmctmgr.so \
     vendor/nubia/TP1803/proprietary/lib64/libdpmfdmgr.so:system/lib64/libdpmfdmgr.so \
     vendor/nubia/TP1803/proprietary/lib64/libdpmframework.so:system/lib64/libdpmframework.so \
@@ -150,7 +147,6 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/TP1803/proprietary/lib64/libmmparser_lite.so:system/lib64/libmmparser_lite.so \
     vendor/nubia/TP1803/proprietary/lib64/libmmrtpdecoder.so:system/lib64/libmmrtpdecoder.so \
     vendor/nubia/TP1803/proprietary/lib64/libmmrtpencoder.so:system/lib64/libmmrtpencoder.so \
-    vendor/nubia/TP1803/proprietary/lib64/libqdMetaData.system.so:system/lib64/libqdMetaData.system.so \
     vendor/nubia/TP1803/proprietary/lib64/librcc.so:system/lib64/librcc.so \
     vendor/nubia/TP1803/proprietary/lib64/libwfdclient.so:system/lib64/libwfdclient.so \
     vendor/nubia/TP1803/proprietary/lib64/libwfdnative.so:system/lib64/libwfdnative.so \
